@@ -3,7 +3,7 @@ coursera-stanford-machine-learning
 
 This is main repository for course work as part of Coursera course for [Machine Learning (https://www.coursera.org/learn/machine-learning/)
 
-I took this course during lag in deeplearning.ai specialization course release for Sequence Models.  I also wanted to take step back and understand previously cited research by Andrew Ng and his "Heroes of deep learning" series.o
+I took this course during lag in deeplearning.ai specialization course release for Module #5 - Sequence Models.  I also wanted to take step back and understand previously cited research by Andrew Ng and his "Heroes of deep learning" series.
 
 ### Instructors
 Andrew Ng, Co-founder, Coursera, Adjunct Professor, Stanford University; formerly head of Baidu AI Group / Google Brain.
