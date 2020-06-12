@@ -14,7 +14,7 @@ Andrew Ng, Co-founder, Coursera, Adjunct Professor, Stanford University; formerl
 - Explanations on backpropagation and how it is derived sets up future courses.
 
 ### Course structure and tools
-- Course is 11 weeks.  My annotated syllable[TBD](...)
+- Course is 11 weeks.
 - Programming exercises in Octave/MATLAB.
 
 ### Key Takeaways
